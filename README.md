@@ -26,8 +26,8 @@ Welcome to the "Multi-Layer Perceptron (MLP) Implementation" repository. This pr
 ## How to Run
 - Clone the Repository:
   ```bash
-     git clone https://github.com/YourUsername/MLP-Implementation.git
-     cd MLP-Implementation
+     git clone https://github.com/YourUsername/MLP-Classifier-for-MNIST-Digit-Recognition.git
+     cd MLP-Classifier-for-MNIST-Digit-Recognition
 - Install Required Libraries:
    Ensure that Python 3.8 or higher is installed with PyTorch and Matplotlib:
    ```bash
