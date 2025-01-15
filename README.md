@@ -41,5 +41,4 @@ This project was a collaborative effort. Special thanks to [SpanouMaria](https:/
 
 
 ## Notes
-The MLP model occasionally shows lower accuracy if initialization or hyperparameters deviate. Ensure proper learning rates and initialization methods are used.
-Filters and confusion matrix visualization help debug and fine-tune the model for better results.
+The MLP model occasionally shows lower accuracy if initialization or hyperparameters deviate. Ensure proper learning rates and initialization methods are used. Filters and confusion matrix visualization help debug and fine-tune the model for better results.
