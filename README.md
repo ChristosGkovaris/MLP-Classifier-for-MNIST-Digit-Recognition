@@ -1,16 +1,6 @@
 # Multi-Layer Perceptron (MLP) Implementation
-Welcome to the "Multi-Layer Perceptron (MLP) Implementation" repository. This project showcases the implementation of a fully connected MLP neural network using Python and PyTorch. The MLP model is designed to classify images from the MNIST dataset. The final grade of the project is 2.5 (excluding the additional  bonus points) out of 3.
+Welcome to "Multi-Layer Perceptron (MLP) Implementation" repository. This repository contains the implementation of a fully connected MLP neural network using Python and PyTorch. The MLP model is designed to classify images from the MNIST dataset. The final grade of the project is 2.5 (excluding the additional  bonus points) out of 3.
 
-
-### MLP Implementation
-- Objective: Build a two-layer MLP neural network to classify handwritten digits from the MNIST dataset.
-- Architecture: Input Layer: Processes 28x28 grayscale images (784 features). Hidden Layer: Consists
-  of 50 neurons with ReLU activation. Output Layer: Produces logits for 10 classes (digits 0-9).
-- Training: The model uses CrossEntropyLoss for classification and Stochastic Gradient Descent (SGD)
-  for optimization. The dataset is divided into batches of size 50 for training. The training loop
-  runs for 10 epochs.
-- Evaluation: Displays the confusion matrix to analyze predictions. Computes accuracy, expected
-  to be approximately 95-97% for the given setup.
 
 
 ## Implementation Details
@@ -23,21 +13,16 @@ Welcome to the "Multi-Layer Perceptron (MLP) Implementation" repository. This pr
 - Visualization: Filters from the first layer are reshaped to 28x28 and visualized to understand their learning.
 
 
+
 ## How to Run
 - Clone the Repository:
   ```bash
      git clone https://github.com/ChristosGkovaris/MLP-Classifier-for-MNIST-Digit-Recognition.git
      cd MLP-Classifier-for-MNIST-Digit-Recognition
-- Install Required Libraries:
-   Ensure that Python 3.8 or higher is installed with PyTorch and Matplotlib:
-   ```bash
-      pip install torch torchvision matplotlib
-- Run the Notebook:
-   Open and run the Jupyter Notebook file provided in the repository. The notebook includes all the necessary code for training and evaluating the MLP model.
+- Python: Ensure that Python 3.8 or higher is installed with PyTorch and Matplotlib:
+- Run the Notebook: Open and run the Jupyter Notebook file provided in the repository. The notebook includes all the necessary code for training and evaluating
+  the MLP model.
 
-
-## Collaboration
-This project was a collaborative effort. Special thanks to [SpanouMaria](https://github.com/SpanouMaria), for their significant contributions to the development and improvement of the project.
 
 
 ## Notes
