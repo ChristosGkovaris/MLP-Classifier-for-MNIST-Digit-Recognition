@@ -14,16 +14,5 @@ Welcome to "Multi-Layer Perceptron (MLP) Implementation" repository. This reposi
 
 
 
-## How to Run
-- Clone the Repository:
-  ```bash
-     git clone https://github.com/ChristosGkovaris/MLP-Classifier-for-MNIST-Digit-Recognition.git
-     cd MLP-Classifier-for-MNIST-Digit-Recognition
-- Python: Ensure that Python 3.8 or higher is installed with PyTorch and Matplotlib:
-- Run the Notebook: Open and run the Jupyter Notebook file provided in the repository. The notebook includes all the necessary code for training and evaluating
-  the MLP model.
-
-
-
 ## Notes
 The MLP model occasionally shows lower accuracy if initialization or hyperparameters deviate. Ensure proper learning rates and initialization methods are used. Filters and confusion matrix visualization help debug and fine-tune the model for better results.
