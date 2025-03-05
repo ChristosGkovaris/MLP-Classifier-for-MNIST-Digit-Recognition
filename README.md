@@ -1,5 +1,5 @@
 # Multi-Layer Perceptron (MLP) Implementation
-Welcome to the "Multi-Layer Perceptron (MLP) Implementation" repository. This project showcases the implementation of a fully connected MLP neural network using Python and PyTorch. The MLP model is designed to classify images from the MNIST dataset. The final grade of the project is  (excluding the additional  bonus points) out of .
+Welcome to the "Multi-Layer Perceptron (MLP) Implementation" repository. This project showcases the implementation of a fully connected MLP neural network using Python and PyTorch. The MLP model is designed to classify images from the MNIST dataset. The final grade of the project is 2.5 (excluding the additional  bonus points) out of 3.
 
 
 ### MLP Implementation
